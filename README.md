@@ -1,20 +1,78 @@
-# Hi, I'm Rehan! 👋  
-                
-## 🚀 About Me  
-I am a software engineer working on web applications and mobile applications. I have been 
-developing professionally for 7 years but tinkering since a kid. I started in tech with internships, freelance services and 
-part time positions during college.
-I have a bit off a diverse job history. I have been working on IOT’s, Mobile App Development, System Engineer, 
-graphic/web design, web app development and sysadmin/DevOps. I can help everywhere in the stack and I love wearing 
-multiple hats to an extent. Although, I do think my strongest skills are in software engineering.
-Most of my positions utilized agile-like development processes using Jira.
-A day in my life may consist of: prepping web art, fixing some front-end bugs, adding an API endpoint, dockerizing an 
-application, database design, configuring a library, setting up a build or deployment plan
- 
-    
-## 🔗 Links  
-[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mr-muhammad-rehan.github.io/mr-muhammad-rehan/)  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmd-rehan/)  
-    
-## 🛠 Skills  
-JavaScript, TypeScript, React.js, Next.js, Angular, Node.js, Express.js, Flutter, React-Native, Rebbot MQ, SQL, MongoDb, Docker, C#, Java, AWS
+<h1 align="center">Hi there, I'm Rehan 👋</h1>
+<h3 align="center">A passionate Software Engineer from Dubai</h3>
+
+<p align="center">
+  <a href="https://github.com/mr-muhammad-rehan">
+    <img src="https://komarev.com/ghpvc/?username=mr-muhammad-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="mr-muhammad-rehan" />
+  </a>
+  <a href="https://github.com/mr-muhammad-rehan?tab=followers">
+    <img src="https://img.shields.io/github/followers/mr-muhammad-rehan?label=Followers&style=social" alt="mr-muhammad-rehan Followers" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-muhammad-rehan&show_icons=true&locale=en" alt="mr-muhammad-rehan stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-muhammad-rehan&" alt="mr-muhammad-rehan streak" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZscG9ldDU2Y2UyMmxhb2NmYmJ5a3N6OW5kbmN5c2d4bmo1cjZraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="500" height="300" />
+</p>
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **E-commerce  Applications**
+
+- 🌱 I’m currently learning **LLM's, NLP, Generative AI's**
+
+<!-- - 👯 I’m looking to collaborate on **[Project Name/Type]** -->
+
+- 🤝 I’m looking for help with **[Learning AI]**
+
+- 💬 Ask me about **Anything Related To Software Development**
+
+- 📫 How to reach me **mrmuhammadrehan65@gmail.com**
+
+- ⚡ Fun fact **Anything runs on electricity get me curious**
+
+## 🚀 Languages and Tools:
+
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/CShrp-blue"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node.Js-green"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/SQL-blue"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Postgress-gray"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDb-Green"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Prisma-black"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/AWS-brown"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-Js-skyblue"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next-Js-black"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-Native-skyblue"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-blue"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Rabbit--MQ-red"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Apache-Kafka-red"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/ELK-Elastic--Search-green"/>
+</p>
+
+## 📊 My GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-muhammad-rehan&langs_count=8&layout=compact" alt="mr-muhammad-rehan Languages" />
+</p>
+
+<p align="center">
+    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=mr-muhammad-rehan&theme=minimal" /> -->
+</p>
+
+## Connect with me:
+<p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/my_personal_web_site-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+
+</p>
+
+<!-- Be sure to replace mr-muhammad-rehan with your actual GitHub username and update the placeholders like YOUR_GIF_LINK_HERE, [Your Project Name], [What You're Learning], etc., with your own details. Also, you can find or create GIFs that represent your interests or work, and host them on a platform like Imgur or Giphy, then use the link in your README. -->
+
