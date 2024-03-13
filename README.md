@@ -21,7 +21,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **E-commerce  Applications**
+- 🔭 I’m currently working on **E-commerce Applications**
 
 - 🌱 I’m currently learning **LLM's, NLP, Generative AI's**
 
@@ -68,11 +68,13 @@
 </p>
 
 ## Connect with me:
+
 <p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/mmd-rehan/" target="_new"> <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/mmd-rehan/" target="_new"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/my_personal_web_site-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
 
 </p>
 
 <!-- Be sure to replace mr-muhammad-rehan with your actual GitHub username and update the placeholders like YOUR_GIF_LINK_HERE, [Your Project Name], [What You're Learning], etc., with your own details. Also, you can find or create GIFs that represent your interests or work, and host them on a platform like Imgur or Giphy, then use the link in your README. -->
-
