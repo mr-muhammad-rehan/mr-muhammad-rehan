@@ -1,24 +1,6 @@
 <h1 align="center">Hi there, I'm Rehan 👋</h1>
 <h3 align="center">A passionate Software Engineer from Dubai</h3>
 
-<p align="center">
-  <a href="https://github.com/mr-muhammad-rehan">
-    <img src="https://komarev.com/ghpvc/?username=mr-muhammad-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="mr-muhammad-rehan" />
-  </a>
-  <a href="https://github.com/mr-muhammad-rehan?tab=followers">
-    <img src="https://img.shields.io/github/followers/mr-muhammad-rehan?label=Followers&style=social" alt="mr-muhammad-rehan Followers" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-muhammad-rehan&show_icons=true&locale=en" alt="mr-muhammad-rehan stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-muhammad-rehan&" alt="mr-muhammad-rehan streak" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZscG9ldDU2Y2UyMmxhb2NmYmJ5a3N6OW5kbmN5c2d4bmo1cjZraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="500" height="300" />
-</p>
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Web Applications**
@@ -56,16 +38,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Apache-Kafka-red"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/ELK-Elastic--Search-green"/>
 </p>
-
-## 📊 My GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-muhammad-rehan&langs_count=8&layout=compact" alt="mr-muhammad-rehan Languages" />
-</p>
-
-<p align="center">
-
-</p>
+ 
 
 ## Connect with me:
 
